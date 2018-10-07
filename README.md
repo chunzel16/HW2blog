@@ -1,5 +1,5 @@
 # HW2blog
-Demo(https://chunzel16.github.io/HW2demo/index.html)
+[Demo](https://chunzel16.github.io/HW2demo/index.html)
 For homework2, I need use javascript and jQuery to design a page for simple calculating
 ## Create a new branch
 At first, I create a new branch called HW2-feature
